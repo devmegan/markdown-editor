@@ -1,9 +1,9 @@
-# React Template
+# Markdown Editor
 
-[React](https://reactjs.org/) template with [tailwindcss](https://tailwindcss.com/) and [daisyUI](https://daisyui.com/) configured. 
+<img src="README/markdown.gif" alt="screen recording of markdown editor" />
 
-- Run the app using `npm start`
-- Test using `npm test`
-- Build using `npm run build`
+Editor takes markdown as input, parses to HTML and renders live preview.
 
-For info about how to use this template, see [GitHub's guide to creating a repository from a template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+Proof of concept to replace wysiwyg editor using [react-simplemde-editor](https://www.npmjs.com/package/react-simplemde-editor).
+
+Clone and use `npm start` to run.
